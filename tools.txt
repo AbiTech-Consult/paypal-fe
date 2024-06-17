@@ -1,0 +1,8 @@
+SDLC
+Linux
+Scripting
+AWS
+MAven 
+Jenkins
+git
+
